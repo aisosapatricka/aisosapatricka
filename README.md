@@ -86,12 +86,42 @@ Every project starts the same way: a messy file nobody wants to touch 😅 — a
 
 ---
 
-### 🧭 Currently Learning & Working Towards
+📋 Project Management Bootcamp
 
-- 📚 Deepening SQL — window functions, CTEs, and performance basics
-- 📊 Building more end-to-end Power BI projects (raw data → published report)
-- 🗂️ Growing a portfolio of real-world style dashboards, not just training exercises
-- 🎓 Working towards a Data Analyst role where I can put all of this to use day to day
+Before data, I completed a Project Manager Bootcamp with Tritek Consulting Limited — hands-on training that built the planning, delivery and stakeholder skills I now bring into data work.
+
+<p align="left"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Agile-2188FF?style=for-the-badge&logo=agile&logoColor=white" /> <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" /> <img src="https://img.shields.io/badge/Balsamiq-CE0000?style=for-the-badge&logo=balsamiq&logoColor=white" /> <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /> </p>
+
+🎯 What I learned & delivered:
+
+🔄 Agile & Waterfall (Wagile) — applied both methodologies on live project work
+
+📌 Jira — tracked tasks, sprints and progress throughout the project lifecycle
+
+🖊️ Balsamiq — built wireframes and mockups to support requirements gathering
+
+🗺️ Draw.io / Lucidchart / BPMN.io — mapped process flows and diagrams
+
+🧩 Miro — ran visual planning and team collaboration sessions
+
+🤝 Stakeholder management — liaised directly with stakeholders to manage expectations and keep them updated on progress
+
+👥 Led a team of 25 — stepped up into Project Lead, PM and business analyst duties when team members dropped out, keeping the project on track
+
+✅ Delivered on time — despite reduced team capacity, the project was completed to schedule
+
+💪 Skill level:
+
+███████████████████░ Agile & Waterfall delivery — Advanced 🚀
+
+██████████████████░░ Stakeholder management — Strong 💪 
+
+██████████████████░░ Team leadership — Strong 💪 
+
+███████████████████░ Requirements gathering & documentation — Advanced 🚀
+
+---
+💡 This bootcamp is where my interest in data really started — tracking sprint progress and reporting to stakeholders made me want to understand the data behind the decisions, which led straight into my Data Technician training.
 
 ---
 
@@ -114,4 +144,4 @@ Every step taught me something the last one didn't — care work gave me patienc
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlesites&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>📌 Open to Data Analyst opportunities — always happy to talk data over coffee ☕</i></p>
+<p align="center"><i>📌 Open to Data Analyst opportunities
