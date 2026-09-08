@@ -32,6 +32,18 @@ Every project starts the same way: a messy file nobody wants to touch 😅 — a
 
 ---
 
+### 📈 Featured Projects
+
+| Project | The Mess I Started With 🗂️ | What Came Out the Other End ✨ | Tools |
+|---|---|---|---|
+| 🌍 **Global Health Insights** | Raw health stats across 190+ countries & decades | Interactive dashboard on life expectancy, BMI & risk trends | Tableau |
+| 🎵 **Spotify Music Trends** | 200k+ tracks, 15 audio features, zero structure | Genre & popularity trends to guide playlist decisions | Tableau |
+| 🚲 **Bike Sales Analysis** | Unsorted sales records across markets | Pivot table revealing top customer segments by country & age | Excel |
+| 📈 **Sales Analysis Report** | Flat sales data, no context | Interactive Power BI report with DAX measures & visuals | Power BI |
+| 💼 **Employment Dashboard** | Raw employment figures | Clean Tableau dashboard tracking trends over time | Tableau |
+
+---
+
 ### 🔧 Skills & Tools
 
 <p align="left">
@@ -49,15 +61,7 @@ Every project starts the same way: a messy file nobody wants to touch 😅 — a
 
 ---
 
-### 📈 Featured Projects
 
-| Project | The Mess I Started With 🗂️ | What Came Out the Other End ✨ | Tools |
-|---|---|---|---|
-| 🌍 **Global Health Insights** | Raw health stats across 190+ countries & decades | Interactive dashboard on life expectancy, BMI & risk trends | Tableau |
-| 🎵 **Spotify Music Trends** | 200k+ tracks, 15 audio features, zero structure | Genre & popularity trends to guide playlist decisions | Tableau |
-| 🚲 **Bike Sales Analysis** | Unsorted sales records across markets | Pivot table revealing top customer segments by country & age | Excel |
-| 📈 **Sales Analysis Report** | Flat sales data, no context | Interactive Power BI report with DAX measures & visuals | Power BI |
-| 💼 **Employment Dashboard** | Raw employment figures | Clean Tableau dashboard tracking trends over time | Tableau |
 
 ---
 
